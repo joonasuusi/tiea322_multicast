@@ -1,0 +1,13 @@
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\obj\Debug\netcoreapp3.1\multi1Kaikki.csprojAssemblyReference.cache
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\obj\Debug\netcoreapp3.1\multi1Kaikki.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\obj\Debug\netcoreapp3.1\multi1Kaikki.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\obj\Debug\netcoreapp3.1\multi1Kaikki.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\bin\Debug\netcoreapp3.1\multi1Kaikki.exe
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\bin\Debug\netcoreapp3.1\multi1Kaikki.deps.json
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\bin\Debug\netcoreapp3.1\multi1Kaikki.runtimeconfig.json
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\bin\Debug\netcoreapp3.1\multi1Kaikki.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\bin\Debug\netcoreapp3.1\multi1Kaikki.dll
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\bin\Debug\netcoreapp3.1\multi1Kaikki.pdb
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\obj\Debug\netcoreapp3.1\multi1Kaikki.dll
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\obj\Debug\netcoreapp3.1\multi1Kaikki.pdb
+C:\Users\Joonas\source\repos\tiea322\multi1Kaikki\obj\Debug\netcoreapp3.1\multi1Kaikki.genruntimeconfig.cache
